@@ -19,15 +19,21 @@ Z3 (Modest) : interesting, economical, poor.value (slope is negative so we need 
 Slope of iso preference line: 1.494
 
  Groups the list of all goods that provide the same level of satisfaction
+ 
 ● Built on customer preferences
+
 ● Interpretation :
+
   ○   Right side is more preferred
+  
   ○   Left side is less preferred
+  
   ○   Same line are equally preferred
 
 ## Regression line
 
  Used to estimate the relationship between the independent variables (X1 , X2 ..... Xn ) and the dependent variable Y
+ 
 ● Mainly used for predicting the values of the dependent variable when provided with the independent variables
 
 ## Ideal Vector
